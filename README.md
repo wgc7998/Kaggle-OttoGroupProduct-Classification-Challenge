@@ -1,5 +1,5 @@
 # Kaggle-OttoGroupProduct-Classification-Challenge
-LogisticRegressionCV / SVC+GridSearchCV
+LogisticRegressionCV / SVC+GridSearchCV / LightGBM
 
 ## 1 任务描述
     Kaggle 2015年举办的Otto Group Product Classification Challenge竞赛数据。
